@@ -1,3 +1,6 @@
+Shedit (no longer currently running but see /u/sheditbot)
+
+A bot that slims down your reddit intake
 usage -
 python3 shedit.py [-s -c -cl]
 
